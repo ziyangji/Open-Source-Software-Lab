@@ -2,4 +2,4 @@
 ### email: jiz@rpi.edu
 ### github account: ziyangji
 ### slack handle: ziyang
-Photo of Ziyang (images/IMG_2373.jpg)
+Photo of Ziyang ![Ziyang] (images/IMG_2373.jpg)
