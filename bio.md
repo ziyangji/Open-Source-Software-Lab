@@ -3,3 +3,5 @@
 ### github account: ziyangji
 ### slack handle: ziyang
 Photo of Ziyang ![alt text](images/IMG_2373.jpg)
+### Lab Reports
+[Lab 01] (lab01.md)
