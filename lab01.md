@@ -1,4 +1,4 @@
-6. They are important because they are the princile of the open source
+6. They are important because they are the principle of the open source
 
 7.a)double check before asking the questions to avoid some silly questions.  
   b)try to describe the problems with least words but most information/
