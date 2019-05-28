@@ -11,4 +11,4 @@
   to make sure you life will not be destoied by the modification. On the other
   hand, I realize law is not perfect for the development of the world in some extent.
 
-14.screenshot ![tree screenshot](labs/screenshot.png)
+14.screenshot ![tree screenshot](screenshot.png)
