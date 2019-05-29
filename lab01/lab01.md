@@ -26,3 +26,6 @@ Some of these answers are different from the answer provided by the website, hop
 ![b2](b2.png)
 ![b3](b3.png)
 ![b4](b4.png)
+
+18![blockly01](blockly01.png)
+![blockly02](blockly02.png)
