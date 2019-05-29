@@ -13,11 +13,11 @@
 
 13.screenshot ![tree screenshot](screenshot.png)
 
-15.[q1](1.png)
-[q2](2.png)
-[q3](3.png)
-[q4](4.png)
-[q5](5.png)
-[q6](6.png)
-[q7](7.png)
+15.![q1](1.png)
+![q2](2.png)
+![q3](3.png)
+![q4](4.png)
+![q5](5.png)
+![q6](6.png)
+![q7](7.png)
 Some of these answers are different from the answer provided by the website, hope they can work
