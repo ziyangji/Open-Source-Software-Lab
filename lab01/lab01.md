@@ -29,3 +29,9 @@ Some of these answers are different from the answer provided by the website, hop
 
 18![blockly01](blockly01.png)
 ![blockly02](blockly02.png)
+ 
+19 I go to the RCOS website and there are lots of open source projects. I am still searching one I am interst in.
+If I can't find one, I may probably strat one myself. By looking the link provided, I find they describe the open
+source project in a very specific way, which is really heapful for me to understand what is the project aim to do,
+the strategy they are using, what still need to do and their achievement. This inspired me a lot and show me a route 
+of my future project.
