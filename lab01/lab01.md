@@ -21,6 +21,7 @@
 ![q5](5.png)
 ![q6](6.png)
 ![q7](7.png)
+![q7c](7c.png)
 Some of these answers are different from the answer provided by the website, hope they can work
 
 16.![b1](b1.png)
