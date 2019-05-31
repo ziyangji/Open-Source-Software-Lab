@@ -1,1 +1,3 @@
-https://github.com/ziyangji/readme
+*  https://github.com/ziyangji/readme
+*  ![git log --graph --oneline --decorate](1.png)
+*  ![gitk](2.png)
