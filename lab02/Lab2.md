@@ -5,3 +5,4 @@
 *  ![part2](4.png)
 *  https://github.com/ziyangji/PullReq
 *  ![git diff](gitdiff.png)
+*  ![git tag](gittag.png)
