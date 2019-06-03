@@ -6,3 +6,4 @@
 *  https://github.com/ziyangji/PullReq
 *  ![git diff](gitdiff.png)
 *  ![git tag](gittag.png)
+*  https://github.com/ziyangji/OSSProjectIdeas
