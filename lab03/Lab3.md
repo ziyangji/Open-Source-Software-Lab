@@ -27,3 +27,7 @@ Date:   Fri Feb 2 12:50:46 2018 -0500
 
 
 the current branches: origin/master
+
+![diff](diff.png)
+* total lines of code are different 
+* authors number are different
