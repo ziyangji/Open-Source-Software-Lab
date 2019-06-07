@@ -31,3 +31,4 @@ the current branches: origin/master
 ![diff](diff.png)
 * total lines of code are different 
 * authors number are different
+![gource](gource.png)
