@@ -1,8 +1,8 @@
-* MxM
+MxM
  There are 3 contributors: 
- Patrick Celentano
- Jonathan Patsenker
- Valerie Fix
+ * Patrick Celentano
+ * Jonathan Patsenker
+ * Valerie Fix
  
  
 39059 total lines of code 
