@@ -32,3 +32,32 @@ the current branches: origin/master
 * total lines of code are different 
 * authors number are different
 ![gource](gource.png)
+
+Repository: https://github.com/RCOS-MCFS/RCOS-Microfossil-Sorter
+Number of Contributors: 3
+Number of lines of code: 109077
+First commit:
+commit 20cc8976447af277f97834ab2d003474deaaa9bd
+Author: John Klingelhofer jkklingelhofer@gmail.com
+Date: Fri Jan 26 16:59:32 2018 -0500
+Initial commit
+
+Latest commit:
+commit 26b5906913dda60b4c9c0de10eee201d3512befd (HEAD -> master, origin/master, origin/HEAD)
+Merge: b290bac dbebc90
+Author: Olivia Lundelius 35616181+OliviaLundelius@users.noreply.github.com
+Date: Mon Apr 15 14:45:50 2019 -0400
+Merge pull request #35 from RCOS-MCFS/documentation
+Documentation pull request
+
+Current branches:
+master
+cv_changes
+
+
+Number of contributors: 8
+Number of lines of code: 316178
+The first commit:commit 0390cd4efbcece5ffffc01bb5cdf1d7cd4a403a9Author: Bogong Yang yangb7@rpi.eduDate: Sun Jan 20 16:07:13 2019 -0500commit message: "Initial commit"The latest commit:commit 38d0e4bb1ddc88a66163f6f6bb5702bce999a43e (HEAD -> master, origin/master, origin/HEAD)Author: ruizhe lir7@rpi.eduDate: Sat Apr 27 22:07:03 2019 -0400commit message: "add_pic function"Current branches:master
+
+
+
