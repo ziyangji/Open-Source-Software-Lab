@@ -1,21 +1,21 @@
-MxM
- There are 3 contributors: 
+## MxM
+ # There are 3 contributors: 
  * Patrick Celentano
  * Jonathan Patsenker
  * Valerie Fix
  
  
-39059 total lines of code 
+# 39059 total lines of code 
  
  
- the first commit
+ # the first commit
  commit 2ede95db420dde4ac846342af54236c4c2b2cb1c
 Author: PatrickCelentano <dr0ideka>
 Date:   Thu Sep 1 17:56:25 2016 -0400
 
     Initial commit
 
- the latest commit 
+ # the latest commit 
  commit 86c1612ebadab6a6d1ae47a1fe67c7701427aee4 (HEAD -> master, origin/master, origin/j-develop, origin/HEAD)
 Merge: 4cae011 2a49274
 Author: Jon Patsenker <jonathan@patsenker.com>
@@ -26,7 +26,7 @@ Date:   Fri Feb 2 12:50:46 2018 -0500
     DL develop merge, just in case
 
 
-the current branches: origin/master
+# the current branches: origin/master
 
 ![diff](diff.png)
 * total lines of code are different 
@@ -155,4 +155,24 @@ current branchs: 18 + 2
   remotes/origin/HEAD -> origin/master
   remotes/origin/dev
   remotes/origin/master
+  
+  ## MultiMC  
+# The number of contributors:  
+44
+# Number of lines of code:  
+55049
+# The first commit  
+Wed Jan 9 12:22:22 2013
+# The latest commit  
+Sat Jun 1 18:05:42 2019
+# The current branches  
+* develop  
+  remotes/origin/HEAD -> origin/develop  
+  remotes/origin/develop  
+  remotes/origin/feature/artifact_overhaul  
+  remotes/origin/feature/cert_pinning  
+  remotes/origin/feature/offline_mode_name_choices  
+  remotes/origin/feature/options_management  
+  remotes/origin/feature/windows_graphics_probing  
+  remotes/origin/stable
 
