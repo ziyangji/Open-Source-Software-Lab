@@ -1,4 +1,5 @@
 ![latex](latex.png)
+![matrix](matrix.png)
 
 ## MxM
  # There are 3 contributors: 
