@@ -1,3 +1,5 @@
+![latex](latex.png)
+
 ## MxM
  # There are 3 contributors: 
  * Patrick Celentano
