@@ -17,5 +17,8 @@
    just a GPL license, the developers have to open source there products. Not all developers want to open source their 
    products. So in order to attract more developers, Android use Apache license, the developers don't have to open source
    the change they made, which can attract more developers.  (https://zh.wikipedia.org/wiki/Apache%E8%AE%B8%E5%8F%AF%E8%AF%81#%E4%B8%8EGPL%E7%9A%84%E5%85%BC%E5%AE%B9)
+   
+### 7.
+*  https://github.com/ziyangji/business-model/tree/master
 
 ![license](license.png)This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
