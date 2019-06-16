@@ -21,4 +21,11 @@
 ### 7.
 *  https://github.com/ziyangji/business-model/tree/master
 
+### 8.
+*  https://github.com/apexal/late Yes MIT
+*  https://github.com/saprap1/auto-calendar Yes MIT
+*  https://github.com/wtg/shuttletracker Yes GNU Affero General Public License v3.0
+*  https://github.com/ziniuyu/googlecardboardvr-ar Yes MIT 
+*  https://github.com/palmer-stolly/phonecontrollers Yes MIT
+
 ![license](license.png)This work is licensed under a http://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License.
