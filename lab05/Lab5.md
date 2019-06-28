@@ -294,8 +294,8 @@ cmake_check_build_system:
 
 ##size
 ```
--rwxrwxrwx 1 root root  8600 Feb 12 22:36 dynamic_block
--rwxrwxrwx 1 root root  8784 Feb 12 22:30 static_block
+-rwxrwxrwx 1 root root  8600 Jun 27 22:36 dynamic_block
+-rwxrwxrwx 1 root root  8784 Jun 27 22:30 static_block
 ```
 ##output
 ```
