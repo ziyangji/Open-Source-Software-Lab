@@ -2,7 +2,7 @@
 ![step2](step2.png)
 ![step3](step3.png)
 ![step4](step4.png)
-![step5](step5.png)
+![step5](step5.jpeg)
 
 ## Makefile
 ```
